@@ -1,5 +1,5 @@
 class Challenge:
-    """This class describes a Challenge that someone can take or a challenge - updated by dave
+    """Update 12/30/2021 This class describes a Challenge that someone can take or a challenge - updated by dave
     that someone can define to be taken by others.
 
     This is the more detailed description of the Challenge class
